@@ -14,6 +14,7 @@ This project analyzes the Algerian Forest Fires dataset and builds a Linear Regr
 ## Dataset
 
 Dataset source: Kaggle
+
 Dataset link: <https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest-fires-dataset>
 
 ## Technologies Used
@@ -27,8 +28,20 @@ Dataset link: <https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest
 
 ## How to Run
 
-1. Clone the repository
-2. Install requirements:
+1. Clone the repository:
 
 ```bash
+git clone YOUR_REPO_LINK
+
+```
+2. Install dependencies:
+   
+```bash
 pip install -r requirements.txt
+
+```
+3. Open notebook:
+   
+```bash
+jupyter notebook
+```
